@@ -9,8 +9,7 @@ if __name__ == '__main__':
     running = True
     v = 150
     dt = 0
-    fps = -60
-
+    fps = 60
 
     while running:
         screen.fill('purple')
